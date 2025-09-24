@@ -13,6 +13,8 @@ A **console application** to manage student records. Add, view, search, and sort
 - Interactive console menu  
 
 ---
+![Console Output](assets/add_student.png)
+![E.g. Add Stu](assets/add_student.png)
 
 ## How to Run
 ```bash
